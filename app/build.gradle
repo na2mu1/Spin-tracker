@@ -3,6 +3,7 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 }
 android {
+    namespace 'com.spintracker'
     compileSdk 34
     defaultConfig {
         applicationId "com.spintracker"
